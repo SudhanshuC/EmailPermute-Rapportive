@@ -4,6 +4,7 @@
 #Credits: This code is based upon the research and code of Jordan Wright.
 #Blog Link: http://jordan-wright.github.io/blog/2013/10/14/automated-social-engineering-recon-using-rapportive/
 #Code Link: https://github.com/jordan-wright/rapportive
+# This code requires the Requests library: https://pypi.python.org/pypi/requests/
 
 import requests
 fn=raw_input('Enter First Name: ')
