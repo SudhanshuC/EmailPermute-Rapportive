@@ -1,7 +1,7 @@
 EmailPermute-Rapportive
 =======================
 
-Creates Email permutations based upon the provided first name, middle name, last name and domain. These generated permutations are then further checked using Rapportive for any information that can be found.
+Creates Email permutations based upon the provided first name, middle name(if any), last name and domain. These generated permutations are then further checked using Rapportive for any information that can be found.
 
 Based Upon Email Permutator: https://docs.google.com/spreadsheet/ccc?key=0AoW7aksoVU98dGNFSUtfeXg4akpNTWM0Z2pHWjJzZUE
 
